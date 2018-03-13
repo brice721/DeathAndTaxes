@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\DeathAndTaxes\DeathAndTaxes\obj\Debug\DeathAndTaxes.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\DeathAndTaxes\DeathAndTaxes\obj\Debug\DeathAndTaxes.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\DeathAndTaxes\DeathAndTaxes\bin\Debug\DeathAndTaxes.exe.config
+c:\users\administrator\source\repos\DeathAndTaxes\DeathAndTaxes\bin\Debug\DeathAndTaxes.exe
+c:\users\administrator\source\repos\DeathAndTaxes\DeathAndTaxes\bin\Debug\DeathAndTaxes.pdb
+c:\users\administrator\source\repos\DeathAndTaxes\DeathAndTaxes\obj\Debug\DeathAndTaxes.exe
+c:\users\administrator\source\repos\DeathAndTaxes\DeathAndTaxes\obj\Debug\DeathAndTaxes.pdb
